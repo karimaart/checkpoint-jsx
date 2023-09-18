@@ -1,0 +1,12 @@
+main {
+    box-sizing: border-box;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.App {
+    min-height: 100vh;
+ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);  
+}
+h1 {
+ color: #a8eb12;   
+}
